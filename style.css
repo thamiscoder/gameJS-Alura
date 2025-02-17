@@ -55,7 +55,7 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
-    background: #1875E8;
+    background: #147841;
     padding: 16px 24px;
     width: 100%;
     font-size: 24px;
@@ -73,16 +73,16 @@ button:disabled {
 }
 
 .container__texto-azul {
-    color: #1875E8;
+    color: #18e88a;
 }
 
 .container__input {
     width: 100%;
     height: 72px;
     border-radius: 16px;
-    background-color: #FFF;
-    border: none;
-    color: #1875E8;
+    background-color: transparent;
+    border: 2px solid;
+    color: #18e88a;
     padding: 2rem;
     font-size: 24px;
     font-weight: 700;
